@@ -6,10 +6,8 @@ PretoFox is a remix of dpcdpc11's theme, featuring the gruvbox color palette.
   [![GitHub release](https://img.shields.io/github/release/FirefoxCSSThemers/GruvFox.svg?style=flat&logo=github)](https://github.com/FirefoxCSSThemers/GruvFox/releases)
 
 
-Gruvbox is a very trending color scheme, with setups, wallpapers, themes and stuff all over the place. So, why not a firefox theme?
+PretoFox is a very trending color scheme for Vim and NeoVim. So, why not a firefox theme?
 
-Here's the color scheme:
-![image](https://user-images.githubusercontent.com/78948152/134291627-abca2b62-547a-4b00-b254-df89ac0a0fd5.png)
 
 
 So, here is the theme: 
