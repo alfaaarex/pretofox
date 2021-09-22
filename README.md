@@ -23,7 +23,3 @@ Got the idea in [Winthemers](https://discord.gg/82eTY8nSFH)
 - macOS:
 
 ![image](https://user-images.githubusercontent.com/78948152/134291627-abca2b62-547a-4b00-b254-df89ac0a0fd5.png)
-
-- Windows:
-
-![image](https://user-images.githubusercontent.com/84819317/131429846-2e9b70a4-c538-4607-971e-b87e85f71241.png)
