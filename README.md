@@ -1,5 +1,5 @@
 # PretoFox  
-PretoFox is a remix of dpcdpc11's theme, featuring the gruvbox color palette.
+PretoFox is a remix of dpcdpc11's theme, featuring the iconic Vim Preto color palette.
 
 
   [![Discord](https://discord.com/api/guilds/763847972013342740/widget.png)](https://discord.gg/82eTY8nSFH)
